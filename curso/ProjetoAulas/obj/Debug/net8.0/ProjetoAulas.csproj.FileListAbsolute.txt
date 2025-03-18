@@ -1,0 +1,14 @@
+c:\curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.exe
+c:\curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.deps.json
+c:\curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.runtimeconfig.json
+c:\curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.dll
+c:\curso\ProjetoAulas\bin\Debug\net8.0\ProjetoAulas.pdb
+c:\curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.GeneratedMSBuildEditorConfig.editorconfig
+c:\curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfoInputs.cache
+c:\curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.AssemblyInfo.cs
+c:\curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.csproj.CoreCompileInputs.cache
+c:\curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.dll
+c:\curso\ProjetoAulas\obj\Debug\net8.0\refint\ProjetoAulas.dll
+c:\curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.pdb
+c:\curso\ProjetoAulas\obj\Debug\net8.0\ProjetoAulas.genruntimeconfig.cache
+c:\curso\ProjetoAulas\obj\Debug\net8.0\ref\ProjetoAulas.dll
