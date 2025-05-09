@@ -1,0 +1,15 @@
+C:\aprendizado-dot-net\curso\Program\Pratica\bin\Debug\net9.0\Pratica.exe
+C:\aprendizado-dot-net\curso\Program\Pratica\bin\Debug\net9.0\Pratica.deps.json
+C:\aprendizado-dot-net\curso\Program\Pratica\bin\Debug\net9.0\Pratica.runtimeconfig.json
+C:\aprendizado-dot-net\curso\Program\Pratica\bin\Debug\net9.0\Pratica.dll
+C:\aprendizado-dot-net\curso\Program\Pratica\bin\Debug\net9.0\Pratica.pdb
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\Pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\Pratica.AssemblyInfoInputs.cache
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\Pratica.AssemblyInfo.cs
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\Pratica.csproj.CoreCompileInputs.cache
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\Pratica.sourcelink.json
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\Pratica.dll
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\refint\Pratica.dll
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\Pratica.pdb
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\Pratica.genruntimeconfig.cache
+C:\aprendizado-dot-net\curso\Program\Pratica\obj\Debug\net9.0\ref\Pratica.dll

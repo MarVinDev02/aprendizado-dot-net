@@ -1,0 +1,15 @@
+C:\aprendizado-dot-net\curso\Program\Algo\bin\Debug\net9.0\Algo.exe
+C:\aprendizado-dot-net\curso\Program\Algo\bin\Debug\net9.0\Algo.deps.json
+C:\aprendizado-dot-net\curso\Program\Algo\bin\Debug\net9.0\Algo.runtimeconfig.json
+C:\aprendizado-dot-net\curso\Program\Algo\bin\Debug\net9.0\Algo.dll
+C:\aprendizado-dot-net\curso\Program\Algo\bin\Debug\net9.0\Algo.pdb
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\Algo.GeneratedMSBuildEditorConfig.editorconfig
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\Algo.AssemblyInfoInputs.cache
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\Algo.AssemblyInfo.cs
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\Algo.csproj.CoreCompileInputs.cache
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\Algo.sourcelink.json
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\Algo.dll
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\refint\Algo.dll
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\Algo.pdb
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\Algo.genruntimeconfig.cache
+C:\aprendizado-dot-net\curso\Program\Algo\obj\Debug\net9.0\ref\Algo.dll
