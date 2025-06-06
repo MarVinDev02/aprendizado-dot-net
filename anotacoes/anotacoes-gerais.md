@@ -20,3 +20,9 @@ Agrupa vários projetos que possuem relação.
 ``dotnet sln -n nome-da-solução``
 - Cria uma solução.
 
+## Criando um projeto via CLI
+
+``dotnet new console``
+- Cria um projeto. 
+
+---
