@@ -72,4 +72,17 @@ namespace Cadastro
         }
 
     }
+
+    public class teste
+    {
+        public readonly int id;
+        public teste()
+        {
+            id = 1;
+        }
+    }
+
+    //classe selada
+    
+
 }

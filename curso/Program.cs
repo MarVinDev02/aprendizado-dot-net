@@ -17,11 +17,12 @@ namespace Application
             // produto.SetId(1);
             // Console.WriteLine("Id: " + produto.GetId());
             // produto.ImprimirDescricao();
-            AulaPropriedadeSomenteLeitura();
+            // AulaPropriedadeSomenteLeitura();
 
             //AulaHeranca();
 
-            Console.ReadKey();
+            
+            
         }
 
 
