@@ -1,0 +1,15 @@
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/bin/Debug/net8.0/Curso
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/bin/Debug/net8.0/Curso.deps.json
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/bin/Debug/net8.0/Curso.runtimeconfig.json
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/bin/Debug/net8.0/Curso.dll
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/bin/Debug/net8.0/Curso.pdb
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.GeneratedMSBuildEditorConfig.editorconfig
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.AssemblyInfoInputs.cache
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.AssemblyInfo.cs
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.csproj.CoreCompileInputs.cache
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.sourcelink.json
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.dll
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/refint/Curso.dll
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.pdb
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.genruntimeconfig.cache
+/home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/ref/Curso.dll
