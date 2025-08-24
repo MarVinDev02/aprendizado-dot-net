@@ -10,8 +10,6 @@ namespace Cadastro
     public class Produto
     {
         private int Id;
-        private String Nome;
-
 
         public string Descricao { get; set; }
 

@@ -1,0 +1,28 @@
+namespace Conversores;
+
+public class Conversor
+{
+    public void ConvertAndParse()
+    {
+        int numero = int.Parse("1");
+        Console.WriteLine(numero);
+
+
+
+    }
+
+    public void AulaTryParse()
+    {
+        var numero = "abc";
+        int numeroConvertido;
+
+        //Confere se o valor pode ser convertido para int e entrega algo. Caso não consiga converter, ele não mostra o erro, entrega uma saída programada. 
+
+        if (int.TryParse(numero, out numeroConvertido))
+        {
+            Console.WriteLine("Numero foi convertido com sucesso");
+        }
+
+        Console.WriteLine(numeroConvertido);
+    }
+}

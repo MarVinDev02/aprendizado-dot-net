@@ -19,8 +19,10 @@ namespace Application
             // produto.ImprimirDescricao();
             // AulaPropriedadeSomenteLeitura();
             //AulaHeranca();
-            AulaClasseSelada();
+            //AulaClasseSelada();
+            //Conversores();
 
+            TrabalhandoComStrings();
 
 
 
@@ -34,7 +36,6 @@ namespace Application
             produto.Descricao = "Mouse";
             Console.WriteLine("Produto: " + produto.Descricao + "\nDisponível: " + produto.Estoque);
         }
-
 
         //Heranca
         private static void AulaHeranca()
@@ -57,10 +58,24 @@ namespace Application
             {
                 Host = "LocalHost"
             };
-            
-                Console.WriteLine(configuracao.Host);
+
+            Console.WriteLine(configuracao.Host);
+        }
+
+        private static void Conversores()
+        {
+            var conversores = new Conversores.Conversor();
+            conversores.AulaTryParse();
+        }
+
+        private static void TrabalhandoComStrings()
+        {
+            var trabalhandoComStrings = new Modulo10.TrabalhandoComStrings();
+            trabalhandoComStrings.ConverterParaLetrasMinusculas();
         }
     }
+
+
 }
 
 //Top Level Statement
