@@ -29,7 +29,10 @@ namespace Application
             // AulaRepleace();
             AulaLentgh();
 
+            //AulaClasseSelada();
+            //Conversores();
 
+            TrabalhandoComStrings();
 
 
 
@@ -43,7 +46,6 @@ namespace Application
             produto.Descricao = "Mouse";
             Console.WriteLine("Produto: " + produto.Descricao + "\nDisponível: " + produto.Estoque);
         }
-
 
         //Heranca
         private static void AulaHeranca()
@@ -69,7 +71,6 @@ namespace Application
 
             Console.WriteLine(configuracao.Host);
         }
-
 
         private static void AulaClasseAbstrata()
         {
@@ -122,6 +123,11 @@ namespace Application
             var conversores = new Conversores.Conversor();
             conversores.ConvertAndParse();
         }
+        // private static void Conversores()
+        // {
+        //     var conversores = new Conversores.Conversor();
+        //     conversores.AulaTryParse();
+        // }
 
         private static void TrabalhandoComStrings()
         {
@@ -148,10 +154,13 @@ namespace Application
         {
             var lentgh = new Modulo10.TrabalhandoComStrings();
             lentgh.AulaLentgh();
+            var trabalhandoComStrings = new Modulo10.TrabalhandoComStrings();
+
         }
+
+
     }
 }
-
 //Top Level Statement
 //namespace Cadastro
 //{

@@ -4,6 +4,7 @@ namespace Modulo10;
 
 public class TrabalhandoComStrings
 {
+
     public void AulaRange()
     {
         string nomeArquivo = "2022_12_01_backup.bak";
@@ -70,7 +71,15 @@ public class TrabalhandoComStrings
     {
         var teste = Console.ReadLine();
         Console.WriteLine(teste.Length);
-        
+
     }
 
+
+    public void ConverterParaLetrasMinusculas()
+    {
+        Console.Write("Favor digitar alguma informação: ");
+        var linha = Console.ReadLine();
+        Console.WriteLine("Informação: " + linha.ToLower());
+
+    }
 }
