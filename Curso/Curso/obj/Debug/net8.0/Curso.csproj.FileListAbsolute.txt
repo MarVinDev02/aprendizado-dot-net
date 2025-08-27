@@ -13,3 +13,18 @@
 /home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.pdb
 /home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/Curso.genruntimeconfig.cache
 /home/marcus/Área de trabalho/aprendizado-dot-net/Curso/Curso/obj/Debug/net8.0/ref/Curso.dll
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\Curso.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\Curso.AssemblyInfoInputs.cache
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\Curso.AssemblyInfo.cs
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\Curso.csproj.CoreCompileInputs.cache
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\Curso.sourcelink.json
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\Curso.dll
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\refint\Curso.dll
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\Curso.pdb
+C:\workspace\aprendizado-dot-net\Curso\Curso\bin\Debug\net8.0\Curso.exe
+C:\workspace\aprendizado-dot-net\Curso\Curso\bin\Debug\net8.0\Curso.deps.json
+C:\workspace\aprendizado-dot-net\Curso\Curso\bin\Debug\net8.0\Curso.runtimeconfig.json
+C:\workspace\aprendizado-dot-net\Curso\Curso\bin\Debug\net8.0\Curso.dll
+C:\workspace\aprendizado-dot-net\Curso\Curso\bin\Debug\net8.0\Curso.pdb
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\Curso.genruntimeconfig.cache
+C:\workspace\aprendizado-dot-net\Curso\Curso\obj\Debug\net8.0\ref\Curso.dll

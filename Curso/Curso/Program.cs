@@ -19,7 +19,16 @@ namespace Application
             // produto.ImprimirDescricao();
             // AulaPropriedadeSomenteLeitura();
             //AulaHeranca();
-            AulaClasseSelada();
+            // AulaClasseSelada();
+            // AulaClasseAbstrata();
+            //AulaRecord();
+            // AulaInterface();
+            // Conversores();
+            // TrabalhandoComStrings();
+            // AulaStarsWith();
+            // AulaRepleace();
+            AulaLentgh();
+
 
 
 
@@ -57,8 +66,88 @@ namespace Application
             {
                 Host = "LocalHost"
             };
-            
-                Console.WriteLine(configuracao.Host);
+
+            Console.WriteLine(configuracao.Host);
+        }
+
+
+        private static void AulaClasseAbstrata()
+        {
+            var cachorro = new Cadastro.Cachorro
+            {
+                Nome = "Perrito",
+                Raca = "Cachorro",
+                Idade = 9
+
+            };
+
+            Console.WriteLine(cachorro.Nome);
+            Console.WriteLine(cachorro.Raca);
+            Console.WriteLine(cachorro.Idade);
+            Console.WriteLine(cachorro.GetInformations());
+        }
+
+        private static void AulaRecord()
+        {
+            var curso1 = new Cadastro.Curso(123, "Algo");
+            var curso2 = curso1 with { Descricao = "Alguma coisa" }; //Copia o objeto, e altera apenas o valor de apenas um atributo. 
+
+            Console.WriteLine(curso1.Descricao);
+            Console.WriteLine(curso2.Descricao);
+            //Console.WriteLine(curso1.Equals(curso2));
+            // Console.WriteLine(curso1 == curso2);
+
+            // var curso1 = new Cadastro.CursoTeste { Id = 1, Descricao = "Curso" };
+            // var curso2 = curso1; // Apontando para o mesmo endereço que curso 1;
+            // curso2.Descricao = "teste";
+            // var curso2 = new Cadastro.CursoTeste();
+            // curso2.Descricao = "Nova Descriçao";
+            // curso2.Id = curso1.Id;
+
+        }
+
+        private static void AulaInterface()
+        {
+            var notificacaoCliente = new Cadastro.NotificacaoCliente();
+            notificacaoCliente.Notificar();
+            notificacaoCliente.NotificarOutros();
+
+            //forma estática de instanciar. Sem usar o var.
+            var notificacao = new Cadastro.NotificacaoFuncionario();
+            notificacao.Notificar();
+        }
+
+        private static void Conversores()
+        {
+            var conversores = new Conversores.Conversor();
+            conversores.ConvertAndParse();
+        }
+
+        private static void TrabalhandoComStrings()
+        {
+            // var range = new Modulo10.TrabalhandoComStrings();
+            var trim = new Modulo10.TrabalhandoComStrings();
+            trim.AulaTrim();
+        }
+
+        private static void AulaStarsWith()
+        {
+
+            var trim = new Modulo10.TrabalhandoComStrings();
+            trim.StartsWithEnds();
+        }
+
+
+        private static void AulaRepleace()
+        {
+            var repleace = new Modulo10.TrabalhandoComStrings();
+            repleace.Repleace();
+        }
+
+        private static void AulaLentgh()
+        {
+            var lentgh = new Modulo10.TrabalhandoComStrings();
+            lentgh.AulaLentgh();
         }
     }
 }
