@@ -111,15 +111,16 @@ namespace Cadastro
     }
 
     //Record
-    public record Curso(int id, String Descricao); // Forma de escrever um record.
-                                                   //{
-                                                   //   
+    public record Curso(int id, String Descricao); 
+    // Forma de escrever um record.
+ //{
+ //   
 
 
 
-    //    //public override bool Equals(object? obj)
-    //    //{
-    //    //    if (obj == null) return false;
+ //    //public override bool Equals(object? obj)
+ //    //{
+ //    //    if (obj == null) return false;
     //    //    if (obj is Curso curso)
     //    //    {
     //    //        return Id == curso.Id && Descricao == curso.Descricao;

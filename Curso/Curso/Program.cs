@@ -27,13 +27,12 @@ namespace Application
             // TrabalhandoComStrings();
             // AulaStarsWith();
             // AulaRepleace();
-            AulaLentgh();
-
+            //AulaLentgh
             //AulaClasseSelada();
-            //Conversores();
-
-            TrabalhandoComStrings();
-
+            //Conversores
+            //TrabalhandoComStrings;
+            //CalcularIdade();
+            TrabalhandoComDatas();
 
 
         }
@@ -158,6 +157,23 @@ namespace Application
 
         }
 
+        private static void TrabalhandoComDatas()
+        {
+            var datas = new Modulo11.TrabalhandoComDatas();
+            datas.AulaTimeOnly();
+        }
+
+        private static void CalcularIdade()
+        {
+            Console.WriteLine("Em que ano você nasceu?");
+            var dataDeNascimento = int.Parse(Console.ReadLine());
+            Console.WriteLine("Em que ano estamos?");
+            var dataAtual = int.Parse(Console.ReadLine());
+            var idade = dataAtual - dataDeNascimento;
+
+            Console.WriteLine("Sua idade: " + idade);
+        }
+        
 
     }
 }
