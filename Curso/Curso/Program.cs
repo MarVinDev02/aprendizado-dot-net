@@ -2,6 +2,8 @@
 
 //Estrutura antiga
 
+using Modulo12;
+
 namespace Application
 {
 
@@ -32,7 +34,9 @@ namespace Application
             //Conversores
             //TrabalhandoComStrings;
             //CalcularIdade();
-            TrabalhandoComDatas();
+            // TrabalhandoComDatas();
+            // TrabalhandoComExcessoes();
+            TrabalhandoComArquivos();
 
 
         }
@@ -173,7 +177,18 @@ namespace Application
 
             Console.WriteLine("Sua idade: " + idade);
         }
-        
+
+        private static void TrabalhandoComExcessoes()
+        {
+            var TrabalhandoComExcessoes = new Modulo12.TrabalhandoComExcessoes();
+            TrabalhandoComExcessoes.AulaTratandoException();
+        }
+
+         private static void TrabalhandoComArquivos()
+        {
+            var trabalhandoComArquivos = new Modulo13.TrabalhandoComArquivos();
+            trabalhandoComArquivos.AulaExcluindoArquivo();
+        }
 
     }
 }

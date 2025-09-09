@@ -15,7 +15,7 @@ public class TrabalhandoComDatas
 		Console.WriteLine(date3);
 		Console.WriteLine(date4);
 
-		Console.WriteLine(date3.ToString("dd/MM/yyyy HH:mm:ss"));//Edita o formato em que ir´asair a data e o horario.
+		Console.WriteLine(date3.ToString("dd/MM/yyyy HH:mm:ss"));//Edita o formato em que ira sair a data e o horario.
 
 
 		var dateOffSet1 = new DateTimeOffset(DateTime.Now, new TimeSpan(-3, 0, 0));
