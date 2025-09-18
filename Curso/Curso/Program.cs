@@ -36,8 +36,8 @@ namespace Application
             //CalcularIdade();
             // TrabalhandoComDatas();
             // TrabalhandoComExcessoes();
-            TrabalhandoComArquivos();
-
+            //TrabalhandoComArquivos();
+            TrabalhandoComLinq();
 
         }
 
@@ -189,6 +189,15 @@ namespace Application
             var trabalhandoComArquivos = new Modulo13.TrabalhandoComArquivos();
             trabalhandoComArquivos.AulaExcluindoArquivo();
         }
+         private static void TrabalhandoComLinq()
+        {
+            var linq = new Modulo14.TrabalhandoComLinq();
+            //linq.AulaWhere();
+            //linq.AulaOrdernacao();
+            //linq.AulaTake();
+            linq.AulaFirstFirstOrDefault();
+        }
+
 
     }
 }

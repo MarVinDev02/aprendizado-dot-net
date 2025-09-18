@@ -1,0 +1,15 @@
+C:\workspace\aprendizado-dot-net\appClientes\bin\Debug\net9.0\appClientes.exe
+C:\workspace\aprendizado-dot-net\appClientes\bin\Debug\net9.0\appClientes.deps.json
+C:\workspace\aprendizado-dot-net\appClientes\bin\Debug\net9.0\appClientes.runtimeconfig.json
+C:\workspace\aprendizado-dot-net\appClientes\bin\Debug\net9.0\appClientes.dll
+C:\workspace\aprendizado-dot-net\appClientes\bin\Debug\net9.0\appClientes.pdb
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\appClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\appClientes.AssemblyInfoInputs.cache
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\appClientes.AssemblyInfo.cs
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\appClientes.csproj.CoreCompileInputs.cache
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\appClientes.sourcelink.json
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\appClientes.dll
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\refint\appClientes.dll
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\appClientes.pdb
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\appClientes.genruntimeconfig.cache
+C:\workspace\aprendizado-dot-net\appClientes\obj\Debug\net9.0\ref\appClientes.dll

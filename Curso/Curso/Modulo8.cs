@@ -64,6 +64,7 @@ namespace Cadastro
     }
 
     //Heranca
+    //A classe herda os atributos e métodos da classe mãe/superclasse
     public class PessoaFisica : Pessoa
 
     {
@@ -81,7 +82,7 @@ namespace Cadastro
         public string Host { get; set; }
     }
 
-    // Classe abstrata não pode ser instanciada. 
+    // Classe abstrata não pode ser instanciada, apenas herdada. 
     public abstract class Animal
     {
         public string Nome { get; set; }
