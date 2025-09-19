@@ -26,6 +26,8 @@ public class TrabalhandoComLinq
         //}
 
         var numeros = new int[] { 10, 6, 5, 50, 15, 2 };
+        
+        //busca valores que peço através da lambda. 
         var resultado = numeros.Where(p => p >= 10); // Forma mais simples.
 
         foreach (var numero in resultado)
@@ -56,7 +58,7 @@ public class TrabalhandoComLinq
 
     public void AulaTake()
     {
-        //Peço para me retornar elementos de uma lista. Eu que escrevo quantos elementos quero que me retorne. 
+        //Peço para me retornar valores de uma lista. Eu que escrevo quantos elementos quero que me retorne. 
 
         var numeros = new int[] { 10, 6, 5, 50, 15, 2 };
         //Utilização de take com mais funções para poder especificar mais ainda minha busca.  
@@ -70,7 +72,7 @@ public class TrabalhandoComLinq
     }
 
     public void AulaCount()
-    { 
+    { //Conta quantos elementos o Array possui.
         var numeros = new int[] { 10, 6, 5, 50, 15, 2 };
 
         //Conta quantos elementos no array são maiores que 10.
@@ -81,15 +83,15 @@ public class TrabalhandoComLinq
     
     public void AulaFirstFirstOrDefault()
     {
-        //Retorna o primeiro valor de uma lista.
         var numeros = new int[] { 10, 6, 5, 50, 15, 2 };
-        //var resultado = numeros.First();
+        //Retorna o primeiro valor de uma lista.
+        var resultado = numeros.First();
 
         //Se não tiver um item, ele retorna 0.
         // -99 é um parâmetro de retorno, caso nada seja encontrado.
-        //var resultado = numeros.FirstOrDefault(p => p > 100, -99);
-        
-        var resultado = numeros.Max();
+        //var resultado = numeros.FirstOrDefault(p => p > 5, -99);
+        //var resultado = numeros.Max();
+
         Console.WriteLine(resultado);
     
         

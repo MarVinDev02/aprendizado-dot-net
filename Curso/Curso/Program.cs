@@ -25,7 +25,7 @@ namespace Application
             // AulaClasseAbstrata();
             //AulaRecord();
             // AulaInterface();
-            // Conversores();
+             //Conversores();
             // TrabalhandoComStrings();
             // AulaStarsWith();
             // AulaRepleace();
@@ -124,7 +124,7 @@ namespace Application
         private static void Conversores()
         {
             var conversores = new Conversores.Conversor();
-            conversores.ConvertAndParse();
+            conversores.AulaTryParse();
         }
         // private static void Conversores()
         // {
