@@ -7,6 +7,7 @@ public class TrabalhandoComStrings
 
     public void AulaRange()
     {
+        //Pega os caracteres que eu requisitar entre os colchetes.
         string nomeArquivo = "2022_12_01_backup.bak";
         string ano = nomeArquivo[..4];//os 4 primeiros caracteres.
         Console.WriteLine(ano);

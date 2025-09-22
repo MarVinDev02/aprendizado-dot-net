@@ -83,6 +83,7 @@ namespace Cadastro
     }
 
     // Classe abstrata não pode ser instanciada, apenas herdada. 
+    //Quando abstrata, ela se torna super classe, as outras, que as herdar,  tornam-se subclasses
     public abstract class Animal
     {
         public string Nome { get; set; }
@@ -111,35 +112,12 @@ namespace Cadastro
         }
     }
 
-    //Record
-    public record Curso(int id, String Descricao); 
+    //Record-------------------------------------------------------------------
     // Forma de escrever um record.
+    public record Curso(int id, String Descricao); 
  //{
  //   
 
-
-
- //    //public override bool Equals(object? obj)
- //    //{
- //    //    if (obj == null) return false;
-    //    //    if (obj is Curso curso)
-    //    //    {
-    //    //        return Id == curso.Id && Descricao == curso.Descricao;
-    //    //    }
-
-    //    //    return base.Equals(obj);
-    //    //}
-    //    //public static bool operator ==(Curso a, Curso b)
-    //    //{
-    //    //    return a.Equals(b);
-    //    //}
-
-    //    //public static bool operator !=(Curso a, Curso b)
-    //    //{
-    //    //    return !(a == b);
-    //    //}
-
-    //}
 
     public class CursoTeste
     {
@@ -147,7 +125,7 @@ namespace Cadastro
         public String Descricao { get; set; }
     }
 
-    //Interface
+    //Interface---
     //A classe que implementar uma interface terá que adotar todos os seus métodos. 
     public interface INotificacao
     {

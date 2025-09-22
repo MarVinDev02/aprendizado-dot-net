@@ -29,7 +29,7 @@ public class TrabalhandoComDatas
 		var date1 = DateTime.Now;
 		var date2 = DateTime.Parse("02-01-1995");
 		var diff = date1.Subtract(date2);//Faz subtração de uma data para outra.
-		//var diff = date1 - date2;
+		
 
         Console.WriteLine((int)diff.TotalDays);//Faz uma conta de datas.
         Console.WriteLine((int)diff.TotalHours);//Faz calculo de horas entre uma data e outra.
@@ -39,7 +39,7 @@ public class TrabalhandoComDatas
 	public void AdicionandoDiasMesAno()
 	{
 		var date1 = DateTime.Now;
-		//Adiciona dias mês e ano dependendo do método que eu chamar. 
+		//Adiciona dias mês e ano dependendo do método que eu chamar. Entre os parenteses eu passo o índice que quero adicionar. 
 		Console.WriteLine(date1.AddDays(3).ToString("dd-MM-yyyy HH:mm:ss"));
 		Console.WriteLine(date1.AddMonths(3).ToString("dd-MM-yyyy HH:mm:ss"));
 		Console.WriteLine(date1.AddYears(3).ToString("dd-MM-yyyy HH:mm:ss"));
